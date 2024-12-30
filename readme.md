@@ -1,0 +1,1 @@
+https://github.com/deadwoodeatmoon/imagic-publish/releases/tag/imgic
